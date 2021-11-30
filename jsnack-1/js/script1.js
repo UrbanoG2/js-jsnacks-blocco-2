@@ -34,7 +34,7 @@ for (let i = 0; i <= maxValue;) {
     }
 }
 
-console.log(guestArr);
+console.log(guestsArr);
 
 
 //creo una funzione per unire gli elementi dell'array
